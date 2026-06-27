@@ -31,7 +31,7 @@ apis:
     properties:
       - type: Documentation
         url: https://libcloud.readthedocs.io/en/stable/compute/
-      - type: SDK
+      - type: SDKs
         url: https://pypi.org/project/apache-libcloud/
 
   - aid: apache-libcloud:storage-api
@@ -75,7 +75,7 @@ common:
     url: https://www.apache.org/licenses/LICENSE-2.0
   - type: Versioning
     url: https://libcloud.readthedocs.io/en/stable/changelog.html
-  - type: SDK
+  - type: SDKs
     url: https://pypi.org/project/apache-libcloud/
   - type: Features
     data:
