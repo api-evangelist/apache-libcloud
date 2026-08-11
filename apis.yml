@@ -73,6 +73,15 @@ apis:
         url: https://libcloud.readthedocs.io/en/stable/dns/
 
 common:
+  - type: IssueTracker
+    url: https://github.com/apache/libcloud/issues
+  - type: CodeOfConduct
+    url: https://github.com/apache/.github/blob/main/.github/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/apache/libcloud/blob/trunk/CONTRIBUTING.rst
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/apache/libcloud/blob/trunk/LICENSE
   - type: DomainSecurity
     url: security/apache-libcloud-domain-security.yml
   - type: LinkedIn
